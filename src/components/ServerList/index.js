@@ -2,6 +2,9 @@ import React from 'react';
 
 import { Container, Separator } from './styles';
 
+import ServerButton from '../ServerButton'
+
+
 function ServerList() {
   return (
     <Container>

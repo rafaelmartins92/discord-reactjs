@@ -8,7 +8,6 @@ function App() {
     <>
       <Layout />
       <GlobalStyle />
-      <h1>Hello World!</h1>
     </>
   );
 }
