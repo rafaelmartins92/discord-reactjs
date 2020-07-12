@@ -1,24 +1,24 @@
 import React from 'react';
 
-import { Container } from './styles';
+import { Container, Separator } from './styles';
 
 function ServerList() {
   return (
     <Container>
-      <ServerButton />
+      <ServerButton isHome />
 
       <Separator />
 
       <ServerButton />
+      <ServerButton hasNotifications />
+      <ServerButton mentions={3} />
       <ServerButton />
       <ServerButton />
       <ServerButton />
+      <ServerButton hasNotifications />
       <ServerButton />
       <ServerButton />
-      <ServerButton />
-      <ServerButton />
-      <ServerButton />
-      <ServerButton />
+      <ServerButton mentions={12} />
       <ServerButton />
       <ServerButton />
     </Container>
