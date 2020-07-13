@@ -7,7 +7,7 @@ function ChannelInfo() {
     <Container>
       <HashtagIcon />
 
-      <Title>chat-livre</Title>
+      <Title><span role="img" aria-label="rocket">💬</span> | bate-papo</Title>
 
       <Separator />
 

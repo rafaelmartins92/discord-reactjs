@@ -22,7 +22,7 @@ const GlobalStyle = createGlobalStyle`
     --primary: #36393f;
     --secondary: #2f3136;
     --tertiary: rgb(32,34,37);
-    --quarternary: #292b2f;
+    --quaternary: #292b2f;
     --quinary: #393d42;
     --senary: #828386;
 
