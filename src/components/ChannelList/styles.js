@@ -32,5 +32,5 @@ export const AddCategoryIcon = styled(Add)`
 
   color: var(--symbol);
   cursor: pointer;
-`;s
+`;
 

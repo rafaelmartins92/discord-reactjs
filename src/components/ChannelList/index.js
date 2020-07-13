@@ -1,6 +1,8 @@
 import React from 'react';
 
-import { Container, Category, AddCategoryIcon, ChannelButton } from './styles';
+import { Container, Category, AddCategoryIcon } from './styles';
+
+import ChannelButton from '../ChannelButton'
 
 function ChannelList() {
   return (
@@ -10,7 +12,7 @@ function ChannelList() {
         <AddCategoryIcon />
       </Category>
 
-      <ChannelButton channelName="🚀| boas-vindas" />
+      <ChannelButton channelName="🚀| boas-vindas" active />
       <ChannelButton channelName="🤖| comandos" />
       <ChannelButton channelName="💬| bate-papo" />
       <ChannelButton channelName="🙋‍♂️| depoimentos" />

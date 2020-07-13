@@ -12,8 +12,8 @@ function Layout() {
     <Grid>
       <ServerList />
       <ServerName />
-      <ChannelList />
       <ChannelInfo />
+      <ChannelList />
     </Grid>
   )
 }
