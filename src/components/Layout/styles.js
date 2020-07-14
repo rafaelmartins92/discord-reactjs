@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 // SL - Server List
 // SN - Server Name
@@ -14,10 +14,10 @@ export const Grid = styled.div`
   grid-template-columns: 71px 240px auto 240px;
   grid-template-rows: 46px auto 52px;
 
-  grid-template-areas: 
-    'SL SN CI CI'
-    'SL CL CD UL'
-    'SL UI CD UL';
+  grid-template-areas:
+    "SL SN CI CI"
+    "SL CL CD UL"
+    "SL UI CD UL";
 
-  height: 100%;
+  height: 100vh;
 `;
