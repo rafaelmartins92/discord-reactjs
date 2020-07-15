@@ -15,6 +15,10 @@ export const Container = styled.div`
     border-left: 2px solid var(--mention-detail);
     padding-left: 14px;
   }
+
+  & + div {
+    margin-top: 13px;
+  }
 `;
 
 export const Avatar = styled.div`
@@ -69,6 +73,7 @@ export const Header = styled.div`
 `;
 
 export const Content = styled.div`
+  display: flex;
   text-align: left;
   font-size: 16px;
   color: var(--white);

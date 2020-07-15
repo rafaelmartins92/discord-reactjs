@@ -16,6 +16,7 @@ function ChannelData() {
       <Messages>
         {Array.from(Array(20).keys()).map((n) => (
           <ChannelMessage
+            key={n}
             author="Rafael Martins"
             date="14/07/202"
             content="Eae galera!!!"
@@ -32,7 +33,6 @@ function ChannelData() {
           }
           hasMention
           isBot
-          ref={messagesRef}
         />
 
         <div ref={messagesRef} />
