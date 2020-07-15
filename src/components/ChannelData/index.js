@@ -14,7 +14,7 @@ function ChannelData() {
   return (
     <Container>
       <Messages>
-        {Array.from(Array(15).keys()).map((n) => (
+        {Array.from(Array(20).keys()).map((n) => (
           <ChannelMessage
             author="Rafael Martins"
             date="14/07/202"

@@ -1,10 +1,10 @@
-import { createGlobalStyle } from 'styled-components'
+import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
   * {
     margin: 0;
     padding: 0;
-    box-sizing: 0;
+    box-sizing: border-box;
   }
 
   html, body, #root {
@@ -41,6 +41,6 @@ const GlobalStyle = createGlobalStyle`
     --rocketseat: #6633cc;
   }
 
-`
+`;
 
-export default GlobalStyle
+export default GlobalStyle;
