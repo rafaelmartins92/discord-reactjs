@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#video_game-check-it-out">Check it Out</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#eyes-check-it-out">Check it Out</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#thumbsup-how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
@@ -48,7 +48,7 @@ This project was developed with the following technologies:
 -  [Styled Components](https://styled-components.com/)
 -  [VS Code][vc]
 
-## :video_game: Check it Out
+## :eyes: Check it Out
 
 You can try it here:
 
