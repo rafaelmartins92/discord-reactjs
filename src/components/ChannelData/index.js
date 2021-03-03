@@ -18,14 +18,14 @@ function ChannelData() {
           <ChannelMessage
             key={n}
             author="Rafael Martins"
-            date="14/07/202"
+            date="14/07/2020"
             content="Eae galera!!!"
           />
         ))}
 
         <ChannelMessage
           author="Guilherme Rodz"
-          date="14/07/202"
+          date="14/07/2020"
           content={
             <>
               <Mention>@Rafael Martins</Mention>, gostou do tutorial?

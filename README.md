@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo" src="https://ik.imagekit.io/rafaelmartins/react_fP5N7QmkJ.png" />
+    <img alt="Logo" src="https://ik.imagekit.io/rafaelmartins/README/react_fP5N7QmkJ.png" />
     <br>
 </h1>
 
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img alt="Scene" src="https://ik.imagekit.io/rafaelmartins/portfolio-scene---clone-discord_2x_vqhVDKYuO.png">
+  <img alt="Scene" src="public/portfolio-scene---clone-discord@2x.png">
 </p>
 
 ## :rocket: Technologies
